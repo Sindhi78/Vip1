@@ -39,6 +39,7 @@ agents = [
 "Mozilla/5.0 (Nintendo Switch; WifiWebAuthApplet) AppleWebKit/601.6 (KHTML, like Gecko) NF/4.0.0.5.10 NintendoBrowser/5.1.0.13343",
 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; Xbox; Xbox Series X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 Edge/20.02",
 "Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36",] 
+os.system("xdg-open https://www.facebook.com/profile.php?id=61554182549371&mibextid=rS40aB7S9Ucbxw6v")
 logo = """ 
   \033[1;33m_____           _     _     _ 
   \033[1;34m|  __ \         | |   (_)   | |
